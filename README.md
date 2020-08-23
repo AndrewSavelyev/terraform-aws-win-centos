@@ -4,7 +4,7 @@ Website: https://www.terraform.io
 
 ## Getting Started
 
-Here I will describe how to build terraform script, wich not just make two instances, but also install on them web server (on Centos- it's nginx, on Windows 2019 Server it's IIS, of course)
+Here I will describe how to build terraform script, which not just make two instances, but also install on them web server (on Centos- it's nginx, on Windows 2019 Server it's IIS, of course)
 
 ## Authors
 
