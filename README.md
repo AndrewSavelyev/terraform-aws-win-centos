@@ -1,10 +1,10 @@
-# Terraform script wor AWS EC2 Windows 2019 Server and Centos 7 instances
+# Terraform script for AWS EC2 Windows 2019 Server and Centos 7 instances
 
 Website: https://www.terraform.io
 
 ## Getting Started
 
-Here i will describe how to build terraform script, wich not just make two instances, but also install on them web server (on Centos- it's nginx, on Windows 2019 Server it's IIS, of course)
+Here I will describe how to build terraform script, wich not just make two instances, but also install on them web server (on Centos- it's nginx, on Windows 2019 Server it's IIS, of course)
 
 ## Authors
 
